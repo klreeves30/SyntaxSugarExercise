@@ -1,0 +1,13 @@
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.exe
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.deps.json
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.runtimeconfig.json
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.runtimeconfig.dev.json
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.dll
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\bin\Debug\netcoreapp3.1\SytaxSugarExercise.pdb
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.csprojAssemblyReference.cache
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.AssemblyInfo.cs
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.dll
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.pdb
+C:\Users\17703\repos\SytaxSugarExercise\SytaxSugarExercise\obj\Debug\netcoreapp3.1\SytaxSugarExercise.genruntimeconfig.cache
